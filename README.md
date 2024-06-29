@@ -12,6 +12,12 @@ This application allows users to select a stock and a period of historical data 
 - **Data Visualization**: Interactive visualizations using Plotly for analyzing stock price trends.
 - **Forecasting**: Predict future stock prices using the SARIMAX model.
 - **Caching**: Efficient data loading with Streamlit's caching mechanism.
+
+## Snaps
+![2](https://github.com/NipunaMuhandiram/Stock-Price-Prediction-Application/blob/main/Snaps/img%20(5).png?raw=true)
+![3](https://github.com/NipunaMuhandiram/Stock-Price-Prediction-Application/blob/main/Snaps/img%20(7).png?raw=true)
+![1](https://github.com/NipunaMuhandiram/Stock-Price-Prediction-Application/blob/main/Snaps/img%20(8).png?raw=true)
+
 ## Requirements
 
 - Python 3.x
@@ -26,7 +32,7 @@ This application allows users to select a stock and a period of historical data 
 1. **Clone the repository**:
 
 ``` 
-git clone xxxx cd stock-price-prediction-app
+git clone https://github.com/NipunaMuhandiram/Stock-Price-Prediction-Application.git cd Stock-Price-Prediction-Application/StockPrediction
 ```
 
 2. **Create and activate a virtual environment**:
