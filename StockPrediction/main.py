@@ -17,7 +17,7 @@ st.divider()
 stocks = ('GOOG', 'AAPL', 'MSFT', 'AMZN')
 st.write("###### GOOG - GOOGLE STOCKS / AAPL - APPLE STOCKS / MSFT - Microsoft STOCKS / AMZN - Amazon.com STOCKS")
 selected_stock = st.selectbox('Select STOCK dataset you want to predict', stocks)
-st.text("You can select 4-years max of STOCK data to train the Machine Learning Model ")
+st.text("You can select 4-years max of STOCK data to train the SRIMAX Model ")
 n_years = st.slider('Years of Dataset to Train Model:', 1, 4)
 period = n_years * 365
 
