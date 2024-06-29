@@ -1,4 +1,4 @@
-# Stock Price Prediction Application
+# Python Stock Price Prediction Application
 
 A web-based application built with Streamlit for predicting stock prices using the SARIMAX model from the `statsmodels` library. This project utilizes historical stock data to forecast future prices for major companies like Google, Apple, Microsoft, and Amazon.
 
