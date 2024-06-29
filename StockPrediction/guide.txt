@@ -1,0 +1,13 @@
+current python v3.12
+step 01:
+open cmd inside of the folder
+
+step 02:
+paste this command in cmd and enter
+
+env\Scripts\activate.bat
+
+step 03:
+paste this command in cmd ande enter
+
+streamlit run main.py
